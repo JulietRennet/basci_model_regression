@@ -22,7 +22,7 @@ R script to compare two different regression models with one variable and one la
 7. Bootstrapping : estimate the uncertainty of the coefficient and the model
 
 
-In model selection you first define the model to test (linear should always be the gold standard)
+### In model selection you first define the model to test (linear should always be the gold standard)
 
 First thing always look at your data!
 Look at the F-statistic, R2 and RSE that give you a statistical measure on how well the model fit the data
